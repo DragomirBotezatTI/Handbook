@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="principii_array">
+        <item> Principiul contabilitatii de angajamente</item>
+        <item> Principiul continuitatii activitatii</item>
+        <item> Principiul permanentei metodelor</item>
+        <item> Principiul prudentei</item>
+        <item> Principiul independentei exercitiului</item>
+        <item> Principiul evaluarii separate a elementelor de active si de datorii</item>
+        <item> Principiul intangibilitatii</item>
+        <item> Principiul necompensarii</item>
+    </string-array>
+    <string-array name="formule_array">
+        <item>  Formule contabile simple</item>
+        <item>  Formule contabile compuse</item>
+    </string-array>
+    <string-array name="plan_array">
+        <item>Planul general de conturi contabile cuprinde 9 clase:</item>
+
+        <item>1. Active imobilizate</item>
+
+        <item>2. Active circulante</item>
+
+        <item>3. Capital propriu</item>
+
+        <item>4. Datorii pe termen lung</item>
+
+        <item>5. Datorii curente</item>
+
+        <item>6. Venituri</item>
+
+        <item>7. Cheltuieli</item>
+
+        <item>8. Conturi de gestiune</item>
+
+        <item>9. Conturi extrabilanţiere</item>
+    </string-array>
+</resources>

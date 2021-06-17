@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">handbook</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">handbook</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="pc">principii contabile</string>
+    <string name="fc">formule contabile</string>
+    <string name="pdc">plan de conturi</string>
+    <string name="pc_1.1"> Principiul contabilitatii de angajamente</string>
+    <string name="pc_1">Acest principiu se aplica inclusiv la recunoasterea  dobanzii aferente perioadei,
+        indiferent de scadenta acesteia. In acest caz evaluarea este de fapt
+        procesul prin care se determina valoarea la care elementele situatiilor financiare anuale simplificate sunt recunoscute in
+        contabilitate si prezentate in bilant, in contul de profit si pierdere simplificate.</string>
+    <string name="pc_2">Principiul continuitatii activitatii presupune ca organizatia iti continua modul normal de functionare ,
+        fara a reduce semnificativ activitatile.
+Situatiile financiare simplificate nu se vor intocmi pe
+        baza acestui principiu, daca persoanele aflate la conducerea organizatiei stabilesc dupa data bilantului sa
+        inceteze activitatea acesteia.</string>
+    <string name="pc_3">Un principiu foarte simplu de aplicat este cel al permanentei metodelor. Acesta spune ca metodele de
+        evaluare si politicile contabile nu trebuie schimbate de la un exercitiu financiar la altul.</string>
+    <string name="pc_4">Prudenta este un factor important, iar la intocmirea situatiilor financiare anuale simplificate,
+        evaluarea este bine sa fie facuta tinand cont de acest factor si in mod special de urmatorii factori: \n
+    1. In contul de profit si pierdere simplificat poate fi inclus numai profitul realizat pana la data bilantului. \n
+    2.Este necesar sa se tina cont de toate datoriile aparute in cursul exercitiului financiar curent sau al unui exercitiu precedent. \n
+    3.Este necesar sa se tina evidenta tuturor datoriilor previzibile si a pierderilor potentiale aparute in cursul
+    exercitiului financiar curent sau al unui exercitiu ulterior. Pentru indeplinirea acestui
+    scop ar trebui avute in vedere si eventualele provizioane. \n
+    4.Trebuie sa se aiba in vedere toate deprecierile, indiferent daca rezultatul exercitiului financiar este pe pierdere sau pe profit.</string>
+    <string name="pc_5">Pentru aplicarea acestui principiu trebuie sa se tina cont de veniturile si cheltuielile aferente
+        exercitiului financiar, indiferent de data incasarii veniturilor sau data platii cheltuielilor. In acest mod vor iesi
+        in evidenta, in conturile de venituri si creantele pentru care nu a fost intocmita inca factura.</string>
+    <string name="pc_6">Aplicarea principiului evaluarii separate a elementelor de active si de datorii se face intr-un mod foarte usor.
+        Astfel, componentele elementelor de active si de datorii trebuie evaluate  separat.</string>
+    <string name="pc_7">Conform acestui principiu, bilantul de deschidere pentru fiecare exercitiu financiar trebuie sa corespunda
+        cu bilantul de inchidere al exercitiului financiar precedent. In cazul in care se descopera erori aferente perioadelor
+        precedente, bilantul perioadei anterioare nu va fi modificat.</string>
+    <string name="pc_8">Compensarile de orice fel intre elementele de active si datorii sau intre elementele de venituri si
+        cheltuieli este interzisa. Este obligatoriu ca toate datoriile si creantele sa fie inregistrate separat in contabilitate,
+        pe baza unor documente care sa justifice aceste actiuni.</string>
+
+    <string name="fc_1">Cont “A” = Cont “B” Suma</string>
+    <string name="fc_2">suma “Cont “A” = % \n
+
+                                        Cont “B” suma \n
+
+                                       Cont “Y” suma
+    sau \n % = Cont “A” suma \n
+suma Cont “C” \n
+
+suma Cont “B”</string>
+</resources>
